@@ -236,14 +236,14 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #ffffff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #fff; }
-#resume a:hover, #resume a:focus { color: #fff; }
+#resume a, #resume a:visited  { color: #ffffff; }
+#resume a:hover, #resume a:focus { color: #ffffff; }
 
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
